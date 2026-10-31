@@ -6,7 +6,7 @@
 - Section: CSE C-1
 
 ## Assignment Description
-This repository demonstrates practical Git and GitHub skills.
+This repository contains the Git and GitHub practice assignment created by Rudraksh.
 
 ## Completed Exercises
 - Exercise 01
