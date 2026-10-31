@@ -7,9 +7,7 @@
 * Section: CSE C-1
 
 ## Assignment Description
-
-This repository contains practical Git and GitHub exercises demonstrating repository management, version control, branching, merging, and conflict resolution.
-
+This repository contains the Git and GitHub practice assignment created by Rudraksh.
 ## Completed Exercises
 
 ### Exercise 01 - Git Repository Setup
@@ -44,6 +42,10 @@ This repository contains practical Git and GitHub exercises demonstrating reposi
 
 Compile using GCC:
 
+<<<<<<< HEAD
+```bash
+gcc main.c -o main
+=======
 ```
 gcc main.c -o main.exe
 ```
@@ -53,10 +55,22 @@ Run:
 ```
 .\main.exe
 ```
+>>>>>>> origin/main
 
 ## GitHub Activities
 
 ### Issues
+<<<<<<< HEAD
+- [Issue #1 - Initial Git Repository Setup](PASTE_ISSUE_URL)
+
+### Pull Requests
+- [PR #1 - Add issue tracking to README](PASTE_PR_URL)
+
+### Git Practice
+- Branching and merging
+- Merge conflict resolution
+- Commit history management
+=======
 
 * Issue #1: Initial Git Repository Setup
 
@@ -67,3 +81,4 @@ Run:
 ## Git Practice Record
 
 Refer to git-commands.md for commands and merge conflict resolution details.
+>>>>>>> origin/main
