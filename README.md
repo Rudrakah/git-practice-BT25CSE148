@@ -19,3 +19,10 @@ Compile C programs using GCC:
 
 ```bash
 gcc main.c -o main
+## GitHub Activities
+
+### Issues
+- #1 - Initial Git Repository Setup
+
+### Pull Requests
+- To be added
