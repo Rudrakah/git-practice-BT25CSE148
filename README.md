@@ -19,10 +19,16 @@ Compile C programs using GCC:
 
 ```bash
 gcc main.c -o main
+
 ## GitHub Activities
 
 ### Issues
-- #1 - Initial Git Repository Setup
+- [Issue #1 - Initial Git Repository Setup](PASTE_ISSUE_URL)
 
 ### Pull Requests
-- To be added
+- [PR #1 - Add issue tracking to README](PASTE_PR_URL)
+
+### Git Practice
+- Branching and merging
+- Merge conflict resolution
+- Commit history management
